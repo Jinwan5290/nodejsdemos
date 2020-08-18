@@ -1,0 +1,22 @@
+{
+  "visits": [
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {},
+    {
+      "user": "a",
+      "page": "1",
+      "action": "click"
+    },
+    {
+      "user": "a",
+      "page": "1",
+      "action": "click"
+    }
+  ],
+  "count": 9
+}
